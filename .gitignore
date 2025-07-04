@@ -108,3 +108,4 @@ local.properties
 key.properties
 google-services.json
 GoogleService-Info.plist
+.vscode
