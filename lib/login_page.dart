@@ -183,7 +183,7 @@ class _LoginPageState extends State<LoginPage> {
               const SizedBox(height: 30),
               // Título
               const Text(
-                'Mi Blog Personal',
+                'Blog Turistico',
                 style: TextStyle(
                   fontSize: 28,
                   fontWeight: FontWeight.bold,
