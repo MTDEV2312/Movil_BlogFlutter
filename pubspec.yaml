@@ -1,5 +1,5 @@
 name: turistic_blog
-description: "A new Flutter project."
+description: "A turistic Blog App."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -45,6 +45,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: "^0.12.0"
+  flutter_native_splash: ^2.4.1
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -63,6 +65,10 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+
+  # Assets de la aplicación
+  assets:
+    - assets/
 
   # To add assets to your application, add an assets section, like this:
   # assets:
@@ -94,3 +100,30 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
+# Configuración para los iconos de la aplicación
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/iconoApp.png"
+  # Configuración para iconos adaptativos en Android (icono circular)
+  adaptive_icon_background: "#722F37" # Color de fondo vino
+  adaptive_icon_foreground: "assets/iconoApp.png" # Imagen para el primer plano
+  # Remover el canal alpha para iOS
+  remove_alpha_ios: true
+
+# Configuración para el splash screen
+flutter_native_splash:
+  # Imagen para el splash screen (rectangular, centrada, sin recortes)
+  image: "assets/iconoApp.png"
+  # Color de fondo del splash screen (vino más oscuro)
+  color: "#800000"
+  # Color del fondo para modo oscuro
+  color_dark: "#600000"
+  # Configuración específica para Android
+  android: true
+  # Configuración específica para iOS
+  ios: true
+  # Mantener la imagen rectangular sin recortes circulares
+  # Solo imagen centrada sobre fondo sólido
+  fullscreen: true
