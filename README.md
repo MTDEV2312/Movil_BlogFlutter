@@ -81,16 +81,16 @@ lib/
 *[Espacio reservado para capturas de pantalla de la aplicación]*
 
 ### Pantalla Principal
-![Pantalla Principal](screenshots/home_screen.png)
+![pantallaPrincipal](https://github.com/user-attachments/assets/6e519619-3319-4972-8026-517fe7ce303d)
 
 ### Crear Post
-![Crear Post](screenshots/create_post.png)
+![CrearPost](https://github.com/user-attachments/assets/92adb0f0-65b7-4851-af4d-008c47756869)
 
 ### Detalle del Post
-![Detalle del Post](screenshots/post_detail.png)
+![DetallesPost](https://github.com/user-attachments/assets/183dfbc9-10d2-4738-bf7b-703a2e4909f2)
 
 ### Login/Registro
-![Login](screenshots/login_screen.png)
+![LoginRegister](https://github.com/user-attachments/assets/42a651b2-d867-4b1d-bc8f-22b635772648)
 
 ## 📦 Descarga la Aplicación
 
