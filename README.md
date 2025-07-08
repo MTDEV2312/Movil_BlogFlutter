@@ -141,7 +141,8 @@ lib/
 ![registrarse](https://github.com/user-attachments/assets/34f93aaa-410a-43a8-8d7d-e62856f01141)
 
 ### Página de Ayuda
-![Página de Ayuda](https://via.placeholder.com/400x600?text=Página+de+Ayuda)
+
+![ayuda](https://github.com/user-attachments/assets/7bc70622-2270-404c-b8f8-4798e9148f3f)
 
 ### Pantalla Principal
 ![pantallaPrincipal](https://github.com/user-attachments/assets/6e519619-3319-4972-8026-517fe7ce303d)
