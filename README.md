@@ -135,7 +135,10 @@ lib/
 ## 🖼️ Capturas de Pantalla
 
 ### Login/Registro Mejorado
-![Login Mejorado](https://via.placeholder.com/400x600?text=Login+Mejorado)
+
+![login](https://github.com/user-attachments/assets/c50acb48-5cc1-400e-99f2-b4a735fc43e5)
+
+![registrarse](https://github.com/user-attachments/assets/34f93aaa-410a-43a8-8d7d-e62856f01141)
 
 ### Página de Ayuda
 ![Página de Ayuda](https://via.placeholder.com/400x600?text=Página+de+Ayuda)
