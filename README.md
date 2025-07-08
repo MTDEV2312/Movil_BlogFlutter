@@ -180,7 +180,7 @@ lib/
 ### APK para Android
 Puedes descargar la última versión de la aplicación desde el siguiente enlace:
 
-**[📱 Descargar APK](https://mega.nz/file/jBAwXKBR#gjWVdiSGnxUhpExHkJ_Akzl4jqwydAjXQDSy4L_fiYE)**
+**[📱 Descargar APK](https://mega.nz/file/OFhATZRJ#QBA7ngp8VIOfsuSvwOlKc_hHiUlwjXocqqhBw4azY0o)**
 
 ## 🤝 Contribuir
 
