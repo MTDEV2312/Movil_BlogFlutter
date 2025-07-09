@@ -253,4 +253,5 @@ El proyecto incluye configuración automática para:
 
 ## Autor
  - **Mathías Terán**
+ - **Nicolas Luna**
 
