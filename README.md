@@ -251,7 +251,7 @@ El proyecto incluye configuración automática para:
 - **Splash screen**: Configurado con tema vino (#722F37)
 - **Iconos adaptativos**: Para Android con fondo personalizado
 
-## Autor
+## Autores
  - **Mathías Terán**
  - **Nicolas Luna**
 
